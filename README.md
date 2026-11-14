@@ -5,7 +5,9 @@ Predictive HR analytics system and interactive Streamlit dashboard built for Pal
 **Enterprise Workforce Intelligence & Predictive Retention Platform for Palo Alto Networks**
 
 ---
+Live Dashboard :
 
+Research Report(Google Docs) : https://drive.google.com/drive/folders/1kmgISAtMNk-vJNG4Bbicr-aFv1TIbBmY?usp=sharing
 ## 📌 1. Project Overview & Problem Statement
 
 In high-velocity cybersecurity and enterprise technology organizations such as **Palo Alto Networks**, unplanned employee attrition erodes institutional knowledge, delays product roadmaps, and incurs substantial replacement costs. Historically, HR leaders lacked the predictive visibility to answer: *"Which specific employees are most likely to leave in the near future, and what concrete factors are driving their exit decisions?"*
