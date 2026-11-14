@@ -5,7 +5,7 @@ Predictive HR analytics system and interactive Streamlit dashboard built for Pal
 **Enterprise Workforce Intelligence & Predictive Retention Platform for Palo Alto Networks**
 
 ---
-Live Dashboard :
+Live Dashboard : https://employee-attrition-risk-scoring-system-dk42jr4dw6tbwreiw9pghj.streamlit.app/
 
 Research Report(Google Docs) : https://drive.google.com/drive/folders/1kmgISAtMNk-vJNG4Bbicr-aFv1TIbBmY?usp=sharing
 ## 📌 1. Project Overview & Problem Statement
