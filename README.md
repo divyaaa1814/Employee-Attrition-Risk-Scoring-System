@@ -1,7 +1,6 @@
-# Employee-Attrition-Risk-Scoring-System
-Predictive HR analytics system and interactive Streamlit dashboard built for Palo Alto Networks to forecast employee attrition risk, explain key turnover drivers, and simulate retention strategies using Machine Learning.
-
 # 🛡️ Machine Learning–Based Employee Attrition Prediction and Risk Scoring System
+
+Predictive HR analytics system and interactive Streamlit dashboard built for Palo Alto Networks to forecast employee attrition risk, explain key turnover drivers, and simulate retention strategies using Machine Learning.
 
 **Enterprise Workforce Intelligence & Predictive Retention Platform for Palo Alto Networks**
 
@@ -120,6 +119,24 @@ Each employee is assigned a continuous probability $P(\text{Attrition} = 1 \mid 
 * **Employee ID Selector:** Inspect any of the 1,470 employee profiles individually.
 
 ---
+
+
+# Author 
+
+Divyaa Parikh\
+Student of B.Sc. Data Science\
+Department of Technology, Savitribai Phule University 
+
+---
+
+
+# Acknowledgement
+
+Special thanks to Unified Mentor and the Toronto Government Parks, Forestry & Recreation initiative for providing the project framework, problem scope, and real-world workforce upskilling context.
+
+
+---
+
 
 ## 📂 8. Project Structure & Deliverables
 
